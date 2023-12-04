@@ -5,9 +5,9 @@
 // console.log(informacoesPessoa[1]);
 
 const objetoPessoa = {
-    nome: 'José',
-    idade: 17,
-    cpf: '131313'
-}
+  nome: "José",
+  idade: 17,
+  cpf: "131313",
+};
 
-console.log(objetoPessoa)
+console.log(objetoPessoa);
